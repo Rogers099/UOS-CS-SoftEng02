@@ -6,7 +6,8 @@ This project is stand for University of Seoul 2nd semester software engineering 
 
 # Schedule
 
-~9/28 Fri. Create blueprint for project
+~ 9/28 Fri.
+Create blueprint for project
 
 # Objective
 
