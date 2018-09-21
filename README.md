@@ -20,3 +20,4 @@ Create blueprint for project
 
 ## IoT 환경을 위한 인증 기술 개발
 * 이대휘. (2017). 안전한 홈 IoT 서비스를 위한 사용자 및 메세지 인증에 관한 연구, 순천향대학원.
+* https://www.scrum-institute.org/The_Scrum_Product_Backlog.php (Product Backlog, to-do list)
