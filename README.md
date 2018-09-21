@@ -8,7 +8,13 @@ This project is stand for University of Seoul 2nd semester software engineering 
 Create blueprint for project
 
 # Objective
-## 
+## In project
+* project model decision
+* 
+
+## Out project
+* MM 산출
+* 
 
 # Reference
 ## 상황인지형 텔리스크린
