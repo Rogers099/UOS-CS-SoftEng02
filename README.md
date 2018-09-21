@@ -2,7 +2,7 @@
 Hello, There!
 This project is stand for University of Seoul 2nd semester software engineering class. 
 
-# Schedule(Do_List)
+# Schedule(Do list)
 
 * 9/28 Fri.
 Create blueprint for project
